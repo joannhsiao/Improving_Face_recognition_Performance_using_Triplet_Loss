@@ -41,3 +41,5 @@ apply Triplet Loss on EFM model, DeepFace model and BEGAN-CS model
 
 ## DEMO (Deepface)
 
+https://user-images.githubusercontent.com/59599987/177509675-e44a0151-74e7-4098-8ee3-ccbe3a22f297.mp4
+
